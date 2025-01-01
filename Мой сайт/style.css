@@ -1,0 +1,26 @@
+h1 {
+color: green;	
+margin-left: 30px;
+font-style: italic;
+font-size: 30px;
+font-family: Arial;
+}
+p {
+color: blueviolet;	
+margin-left: 20px;
+font-style: normal;
+font-size: 15px;
+}
+a {
+	color: red;	
+	font-size: 15px;
+}
+
+#contacts {
+color: brown;	
+font-size: 20px;
+} 
+h1:hover {
+color: maroon;
+}
+
